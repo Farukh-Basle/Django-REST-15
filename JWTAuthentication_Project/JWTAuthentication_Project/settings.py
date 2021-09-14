@@ -86,7 +86,7 @@ WSGI_APPLICATION = 'JWTAuthentication_Project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'nth_rest9amdb_jwttokendb',
+        'NAME': 'jwttokendb',
         'USER' : 'root',
         'PASSWORD' : 'root',
     }
